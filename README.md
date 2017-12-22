@@ -4,4 +4,6 @@ Currently includes:
 1) SDT_measures.m 
   - Generates signal detection measures for memory task. 
 2) GenSequence2.m
-  - Generate sequence for item presentation based on criterion for repetition intervals (i.e. How many items in between repetition of each     condition)
+  - Generate sequence for item presentation based on criterion for repetition intervals (i.e. How many intervening items before repetition of specific condition)
+3) GenSequence3.m
+  - Generate sequence for item presentation based on criterion for how many consecutive repetition is allowed (i.e. How many times a condition can be repeated consecutively)
