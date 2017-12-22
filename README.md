@@ -1,4 +1,4 @@
-# Experimental_Design_Analysis
+# Experimental_Tools
 Miscellaneous functions for experimental design (e.g. counterbalancing and condition permutations) and also functions for behavioral task analysis (e.g. signal detection measures)
 Currently includes: 
 1) SDT_measures.m 
